@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+အလျှင်မြန်ဆုံးနှင့် အကောင်းဆုံးဝန်ဆောင်မှု
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
