@@ -1,4 +1,4 @@
-အလျှင်မြန်ဆုံးနှင့် အကောင်းဆုံးဝန်ဆောင်မှု
+ပုံကိုနှိပ်ပြီး တယ်လီဂရမ်သို့တိုက်ရိုက်ဆက်သွယ်ပါ
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
